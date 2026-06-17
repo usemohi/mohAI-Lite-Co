@@ -304,7 +304,3 @@ npm test
 ```
 
 ---
-
-## Licença
-
-MIT
